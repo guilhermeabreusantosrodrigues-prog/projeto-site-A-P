@@ -1,0 +1,9 @@
+node_modules/
+frontend/dist/
+backend/.venv/
+backend/__pycache__/
+backend/*.pyc
+backend/achados_perdidos.db
+.env
+.env.*
+!.env.example
